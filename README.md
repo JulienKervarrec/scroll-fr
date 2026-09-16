@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt contient un parcours pédagogique en français consacré à Scroll : zkEVM, rollup, preuves, pont L1/L2 et infrastructure opérationnelle. Consultez le [sommaire du parcours](docs/fr/README.md).
+
 # Scroll Monorepo
 
 [![rollup](https://github.com/scroll-tech/scroll/actions/workflows/rollup.yml/badge.svg)](https://github.com/scroll-tech/scroll/actions/workflows/rollup.yml)
